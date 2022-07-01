@@ -7,3 +7,10 @@ Colaboratory
 
 R Studio
 - I am going to be completely honest, I have no idea what I'm doing with this program.
+
+# 7/1/2022  Notes
+
+Topics covered:
+- Review of Google colab and Rstudio Cloud for tabular data driven analysis of a new data set (british seatbelt study)
+- Understanding the differences between categorical and continuous response variables : Linear regression vs classification (logistic regression) in both R and Python
+- Understand the difference in quantiative and qualitative analyses as well as the meaning of statistical testing with hypotheses (H0, H1)
