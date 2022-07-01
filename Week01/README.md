@@ -14,3 +14,4 @@ Topics covered:
 - Review of Google colab and Rstudio Cloud for tabular data driven analysis of a new data set (british seatbelt study)
 - Understanding the differences between categorical and continuous response variables : Linear regression vs classification (logistic regression) in both R and Python
 - Understand the difference in quantiative and qualitative analyses as well as the meaning of statistical testing with hypotheses (H0, H1)
+- Analysis of classification model results using a confusion matrix, ROC analysis and using sklearn classification reporting techniques
